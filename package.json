@@ -1,0 +1,22 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "babel-preset-env": "^1.7.0",
+    "lerna": "^7.2.0",
+    "postcss-loader": "^7.3.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "dependencies": {
+    "babel-loader": "^9.1.3"
+  }
+}
