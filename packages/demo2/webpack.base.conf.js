@@ -11,11 +11,11 @@ const baseConf =  {
     filename: 'main.js', // 输出的库文件名
     libraryTarget: 'umd', // 将库导出为 UMD 格式
   },
-  devServer: {
-    static: './dist',
-    hot: true,
-  },
-  watch: true,
+  // devServer: {
+  //   static: './dist',
+  //   hot: true,
+  // },
+  // watch: true,
   module: {
     rules: [
       {
