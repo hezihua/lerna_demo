@@ -1,6 +1,6 @@
 {
   "name": "demo2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "private": true,
   "main": "index.js",
@@ -14,7 +14,7 @@
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-react": "^7.22.15",
     "autoprefix": "^1.0.1",
-    "demo1": "1.0.0",
+    "demo1": "^1.0.1",
     "mini-css-extract-plugin": "^2.7.6",
     "postcss-loader": "^7.3.3",
     "react": "^18.2.0",
